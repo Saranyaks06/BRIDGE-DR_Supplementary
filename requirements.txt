@@ -1,0 +1,13 @@
+torch>=2.1
+numpy
+pandas
+scikit-learn
+scipy
+rdkit
+# REX claim verification (DeBERTa NLI)
+transformers
+# report and figures
+matplotlib
+networkx
+python-docx
+pillow
